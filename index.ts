@@ -29,6 +29,7 @@ var lives = 3;
       console.log(gradient.pastel.multiline(data));
     });
   }
+
   if (computer === user) {
     // console.log(chalk.bgGreen("Your Guess is correct"));
     winner();
